@@ -3,6 +3,15 @@
 An elegant, modern, and fully responsive E-commerce web application built for browsing and purchasing premium smartwatches. 
 
 ---
+<p align="center">
+  <img src="hero.png" alt="Storm-Shop Preview" width="600">
+</p>
+<p align="center">
+  <img src="products.png" alt="Storm-Shop Preview" width="600">
+</p>
+<p align="center">
+  <img src="contact.png" alt="Storm-Shop Preview" width="600">
+</p>
 
 ## 🚀 Features
 
